@@ -104,27 +104,23 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
-<img width="760" height="414" alt="image" src="https://github.com/user-attachments/assets/6ee3caf5-d5de-4c38-8ebe-7ff5add6c9cd" />
-
-
+![20251203_213536](https://github.com/user-attachments/assets/9456402a-7c4f-42d0-8af2-5723a48e337d)
 
 ## MODEL GRAPH
 
 (i)	 SINE WAVE INPUT
-
-<img width="687" height="479" alt="image" src="https://github.com/user-attachments/assets/c89226c0-c2bb-4544-b355-27fc0d923f1a" />
+![20251203_213551](https://github.com/user-attachments/assets/44b7f576-cca3-4843-9431-7ce446d34603)
 ---
 
 AND
 
 (ii) SQUARE WAVE INPUT
-
-<img width="758" height="447" alt="image" src="https://github.com/user-attachments/assets/cda33b00-c40c-490f-a9bd-e06107119c25" />
-
+![20251203_213620](https://github.com/user-attachments/assets/1f16393f-c894-465f-97ba-799c6f461472)
 
 ---
 
 ## DESIGN
+![20251203_213717](https://github.com/user-attachments/assets/f4a3e188-5669-426a-b973-e535cdb0347a)
 
 Design an op-amp differentiator that will differentiate an input signal with fmax = 100HZ Select fa = fmax = 100 HZ = 1 / 2πRFC1
 Let C1 = 0.1μF
@@ -144,13 +140,10 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+![20251203_214007](https://github.com/user-attachments/assets/7566a888-8e52-44fb-b50e-a93acba8decf)
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![20251203_214021](https://github.com/user-attachments/assets/a0a6f827-ef14-4681-ad11-26201f1169bb)
 
 ---
 
