@@ -36,17 +36,15 @@ T ≥ Rf Cf
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
-<img width="698" height="423" alt="image" src="https://github.com/user-attachments/assets/f007b349-f96e-42d3-acd3-a37119fc16fc" />
-
+![20251203_211648](https://github.com/user-attachments/assets/2eb82f81-31d5-484e-9c3d-c98210c65c9c)
 
 ## MODEL GRAPH
-<img width="556" height="380" alt="image" src="https://github.com/user-attachments/assets/caa7461c-69f7-4636-8e31-eea6db6efbb5" />
-
-<img width="847" height="553" alt="image" src="https://github.com/user-attachments/assets/d8d3e586-8e58-47ba-baae-2794c7955d51" />
+![20251203_211709](https://github.com/user-attachments/assets/19ca8dd9-0756-415d-a8d9-5279444081a1)
 
 ---
 
 ## DESIGN
+![20251203_211743](https://github.com/user-attachments/assets/6179551e-c3fd-48e5-a97c-972abd8a206d)
 
 To obtain the output of an Integrator circuit with component values R1Cf = 0.1ms , Rf = 10 R1 and Cf = 0.01 µF and also if 1 V peak square wave at 1000Hz is applied as input.
 We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore fb = 	 Since fb = 10 fa , and also the gain limiting frequency fa = 1 / (2π Rf Cf)
@@ -61,16 +59,12 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+![20251203_213411](https://github.com/user-attachments/assets/6419fe00-636c-4243-8be1-50f5de1974ec)
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
+![20251203_213432](https://github.com/user-attachments/assets/8d26ee87-93bf-4cc9-b94b-6c8c6bf659a0)
 
 ---
 **DATE:**  
