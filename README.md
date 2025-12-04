@@ -36,15 +36,16 @@ T ≥ Rf Cf
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
-![20251203_211648](https://github.com/user-attachments/assets/2eb82f81-31d5-484e-9c3d-c98210c65c9c)
+![20251203_213536](https://github.com/user-attachments/assets/9456402a-7c4f-42d0-8af2-5723a48e337d)
 
 ## MODEL GRAPH
-![20251203_211709](https://github.com/user-attachments/assets/19ca8dd9-0756-415d-a8d9-5279444081a1)
+![20251203_213551](https://github.com/user-attachments/assets/44b7f576-cca3-4843-9431-7ce446d34603)
+![20251203_213620](https://github.com/user-attachments/assets/1f16393f-c894-465f-97ba-799c6f461472)
 
 ---
 
 ## DESIGN
-![20251203_211743](https://github.com/user-attachments/assets/6179551e-c3fd-48e5-a97c-972abd8a206d)
+![20251203_213717](https://github.com/user-attachments/assets/f4a3e188-5669-426a-b973-e535cdb0347a)
 
 To obtain the output of an Integrator circuit with component values R1Cf = 0.1ms , Rf = 10 R1 and Cf = 0.01 µF and also if 1 V peak square wave at 1000Hz is applied as input.
 We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore fb = 	 Since fb = 10 fa , and also the gain limiting frequency fa = 1 / (2π Rf Cf)
@@ -59,7 +60,7 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-![20251203_213411](https://github.com/user-attachments/assets/6419fe00-636c-4243-8be1-50f5de1974ec)
+![20251203_214007](https://github.com/user-attachments/assets/7566a888-8e52-44fb-b50e-a93acba8decf)
 
 ---
 
